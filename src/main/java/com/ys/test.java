@@ -7,5 +7,6 @@ package com.ys;
 public class test {
     public static void main(String[] args) {
         System.out.println("ystest");
+        System.out.println("22222222");
     }
 }
